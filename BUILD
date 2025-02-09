@@ -1,0 +1,12 @@
+exports_files([
+    "clang.exe.tar.xz",
+    "clang++.exe.tar.xz",
+    "ld.lld.exe.tar.xz",
+    "ld64.lld.exe.tar.xz",
+    "lld.exe.tar.xz",
+    "lld-link.exe.tar.xz",
+    "llvm-ar.exe.tar.xz",
+    "llvm-objcopy.exe.tar.xz",
+    "llvm-objdump.exe.tar.xz",
+    "llvm-strip.exe.tar.xz",
+])
